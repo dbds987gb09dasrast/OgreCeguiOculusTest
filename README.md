@@ -31,7 +31,7 @@ This is currently for the Windows users.
    CEGUI packages to the debug directory of OgreCeguiOculusTest.
    The debug directory already contains the required files, but
    replacing them is recommended.
-2. Change the config.cfg file to comfortable to your environment.
+2. Edit config.cfg in order to work the exe in your environment.
    The attached is just example.  If you executed the sample program
    in OculusSDK, useful form can be found in your ogre.cfg file in
    My document -> Ogre -> Byatis.
